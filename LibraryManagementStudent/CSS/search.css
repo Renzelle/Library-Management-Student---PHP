@@ -1,0 +1,16 @@
+.search-container {
+  float: right;
+  font-size: 19px;
+}
+.search-container button {
+  float: right;
+  padding: 6px 10px;
+  background: #ddd;
+  font-size: 14px;
+  border: none;
+  cursor: pointer;
+}
+
+.search-container button:hover {
+  background: #ccc;
+}
